@@ -10,9 +10,16 @@ O objetivo deste projeto é utilizar o **Google NotebookLM** como uma ferramenta
 ---
 ## 🔗 Fontes Utilizadas
 As seguintes fontes foram adicionadas ao caderno do NotebookLM:
-1. [Nome da Fonte 1](http://link-da-fonte-1.com)
-2. [Nome da Fonte 2](http://link-da-fonte-2.com)
-3. [Nome ou arquivo da Fonte 3]
+1. Blog Nubank (https://blog.nubank.com.br/inadimplencia-e-endividamento-qual-e-a-diferenca/)
+2. Serasa (https://www.serasa.com.br/limpa-nome-online/blog/mapa-da-inadimplencia-e-renogociacao-de-dividas-no-brasil/)
+3. Blog Serasa (https://www.serasa.com.br/score/blog/metodo-50-30-20-como-utilizar/)
+4. G1 (https://g1.globo.com/economia/noticia/2026/05/04/com-divida-em-alta-recorde-governo-lanca-novo-desenrola-veja-o-raio-x-da-inadimplencia-no-brasil.ghtml)
+5. Exame (https://exame.com/bussola/por-que-a-geracao-z-se-tornou-a-mais-inadimplente-do-brasil/)
+6. Infomoney (https://www.infomoney.com.br/onde-investir/jovens-e-endividados-falta-de-preparo-aumenta-dividas-entre-jovens-mostra-bc/)
+7. Senado Notícias (https://www12.senado.leg.br/noticias/infomaterias/2025/09/educacao-financeira-prevencao-de-dividas-comeca-na-escola)
+8. Portal Gov.br (https://www.gov.br/investidor/pt-br/penso-logo-invisto/a-psicologia-do-consumismo-a-influencia-da-necessidade-de-pertencimento-nas-decisoes-financeiras)
+9. BV Inspira (https://www.bv.com.br/web/bv-inspira/w/cartoes/como-usar-cartao-de-credito)
+10. Blog Serasa (https://www.serasa.com.br/score/blog/metodo-50-30-20-como-utilizar/)
 ---
 ## 💡 Prompts Utilizados & Resultados
 ### 1. Resumo do Conteúdo
