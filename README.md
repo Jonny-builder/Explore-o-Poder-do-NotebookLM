@@ -104,8 +104,42 @@ Nota: Se o custo de vida estiver alto e os gastos essenciais tomarem mais de 50%
 **Serasa Score:** Pontuação de crédito de 0 a 1.000 calculada pelos birôs de crédito para indicar ao mercado a probabilidade de o consumidor honrar seus pagamentos em dia.
 
 ### 3. FAQ (Perguntas Frequentes)
-* **Prompt usado:** `"Gere 3 perguntas essenciais que um iniciante faria sobre esse tema com suas respectivas respostas baseadas no texto."`
-* **Resultado:** [Cole aqui as perguntas e respostas]
+* **Prompt usado:** Crie 5 perguntas mais frequentes com as respectivas respostas baseado no assunto abordado nos materiais.
+* **Resultado:** Aqui estão as 5 perguntas mais frequentes sobre finanças pessoais e organização do orçamento, acompanhadas de suas respectivas respostas baseadas nos materiais:
+
+**1. Qual é a diferença entre estar endividado e estar inadimplente?**
+
+Estar endividado significa ter assumido um compromisso ou pagamento futuro que ainda vai vencer, como uma compra parcelada no cartão de crédito, financiamentos ou empréstimos, o que é um uso normal e neutro do crédito.
+
+Já a inadimplência ocorre quando a conta não é paga até a data de vencimento. O atraso gera cobrança de juros e multas, podendo levar à negativação do CPF nos órgãos de proteção ao crédito (como SPC e Serasa).
+
+**2. Quando a dívida completa 5 anos e "caduca", ela desaparece?**
+
+Não. O prazo de 5 anos refere-se à prescrição do débito, o que faz com que o nome do consumidor seja retirado dos cadastros de inadimplentes dos birôs de crédito e impeça a cobrança judicial por parte do credor. No entanto, a dívida continua existindo diretamente com a instituição financeira e os juros continuam sendo aplicados até que haja uma regularização.
+
+**3. Como funciona o método 50-30-20 na prática?**
+
+O método 50-30-20 é uma regra de planejamento que orienta a divisão do salário líquido mensal em três categorias:
+
+**50% para Necessidades Básicas:** Despesas indispensáveis para a manutenção e sobrevivência, como moradia, alimentação no supermercado, água, luz, transporte e saúde.
+
+**30% para Desejos Pessoais:** Gastos flexíveis de estilo de vida e lazer, incluindo restaurantes, passeios, viagens e serviços de streaming.
+
+**20% para Prioridades Financeiras:** Recursos destinados à reserva de emergência, quitação de dívidas ou investimentos.
+
+**4. O que é a reserva de emergência e onde ela deve ser guardada?**
+
+A reserva de emergência é uma quantia guardada exclusivamente para cobrir imprevistos (como desemprego, problemas de saúde ou consertos urgentes) sem a necessidade de tomar empréstimos. A meta recomendada é acumular o equivalente a 3 a 6 meses do custo de vida. Para construí-la, orienta-se aplicar a regra de "pague-se primeiro", separando o dinheiro assim que a renda entra na conta. Esse valor deve ser alocado em opções seguras e de alta liquidez diária (resgate imediato), como Tesouro Selic, CDBs de liquidez diária ou "caixinhas" bancárias.
+
+**5. Se eu estiver muito endividado, quais contas devo priorizar primeiro?**
+
+Em situações de orçamento apertado ou inadimplência, especialistas recomendam a seguinte ordem de priorização:
+
+**Despesas e serviços essenciais:** Moradia, água, luz e gás, para evitar o corte do fornecimento ou perda de bens.
+Dívidas com juros mais altos: Débitos de cartão de crédito (rotativo) e cheque especial, cujas taxas crescem de forma acelerada no modelo de "bola de neve".
+
+**Dívidas sem garantia:** Buscar renegociações em feirões e plataformas oficiais (como o Serasa Limpa Nome) para obter descontos em juros e multas.
+
 ---
 ## 🚀 Conclusão e Aprendizados
 [Escreva 2 ou 3 frases sobre o que você achou da experiência de usar o NotebookLM e como ele ajudou na sua produtividade].
