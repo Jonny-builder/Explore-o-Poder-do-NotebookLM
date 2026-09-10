@@ -5,9 +5,11 @@
 O objetivo deste projeto é utilizar o **Google NotebookLM** como uma ferramenta de apoio aos estudos, aplicando técnicas de IA Generativa para organizar fontes, extrair resumos e criar um "segundo cérebro" sobre o tema selecionado.
 ---
 ## 📑 Tema Escolhido
+
 **Tema:** O Endividamento da População Brasileira
 
 **Motivo da escolha:** Destacar as principais causas para o endividamento e trazer dicas de prevenção contra as dívidas
+
 ---
 ## 🔗 Fontes Utilizadas
 As seguintes fontes foram adicionadas ao caderno do NotebookLM:
