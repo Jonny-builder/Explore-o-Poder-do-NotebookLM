@@ -7,7 +7,7 @@ O objetivo deste projeto é utilizar o **Google NotebookLM** como uma ferramenta
 ## 📑 Tema Escolhido
 **Tema:** O Endividamento da População Brasileira
 
-**Motivo da escolha:** Trazer as principais causas para o endividamento e as dicas para se prevenir
+**Motivo da escolha:** Destacar as principais causas para o endividamento e trazer dicas de prevenção contra as dívidas
 ---
 ## 🔗 Fontes Utilizadas
 As seguintes fontes foram adicionadas ao caderno do NotebookLM:
@@ -142,4 +142,4 @@ Dívidas com juros mais altos: Débitos de cartão de crédito (rotativo) e cheq
 
 ---
 ## 🚀 Conclusão e Aprendizados
-[Escreva 2 ou 3 frases sobre o que você achou da experiência de usar o NotebookLM e como ele ajudou na sua produtividade].
+Utilizar o NotebookLM trouxe uma experiência muito positiva, pois através da ferramenta consigo realizar um estudo de um determinado assunto com a certeza de que são de fontes confiáveis e principalmente, sem correr o risco de ter informações inventadas pela IA, além de economizar muito tempo com a pesquisa em diversas fontes, possibilitando focar mais na elaboração das ideias e estratégias de um projeto.
